@@ -5,6 +5,15 @@ function App() {
       <div className="mb-8">
         <img src="/assets/youtube-premium.svg" alt="YouTube" className="h-10" />
       </div>
+      <div className="mb-8">
+        <img src="/icons/despachoexpress.svg" alt="YouTube" className="h-10" />
+      </div>
+      <div className="mb-8">
+        <img src="/icons/despachoestandar.svg" alt="YouTube" className="h-10" />
+      </div>
+      <div className="mb-8">
+        <img src="/icons/retiroentienda.svg" alt="YouTube" className="h-10" />
+      </div>
 
       {/* Card del Banner */}
       <div className="w-full max-w-4xl bg-white rounded-lg shadow-lg overflow-hidden">
