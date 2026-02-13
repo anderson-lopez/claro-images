@@ -22,6 +22,16 @@ function App() {
           alt="Banner Claro"
           className="w-full h-auto object-cover"
         />
+        <img
+          src="/assets/iphone17.png"
+          alt="Banner Claro"
+          className="w-full h-auto object-cover"
+        />
+        <img
+          src="/assets/iphone17promax.png"
+          alt="Banner Claro"
+          className="w-full h-auto object-cover"
+        />
 
         <div className="p-6">
           <h1 className="font-semibold text-2xl text-red-600">
