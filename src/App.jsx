@@ -6,13 +6,28 @@ function App() {
         <img src="/assets/youtube-premium.svg" alt="YouTube" className="h-10" />
       </div>
       <div className="mb-8">
-        <img src="/icons/despachoexpress.svg" alt="YouTube" className="h-10" />
+        <img
+          src="/icons/despachoexpress.svg"
+          alt="despachoexpress"
+          className="h-10"
+        />
       </div>
       <div className="mb-8">
-        <img src="/icons/despachoestandar.svg" alt="YouTube" className="h-10" />
+        <img
+          src="/icons/despachoestandar.svg"
+          alt="despachoestandar"
+          className="h-10"
+        />
       </div>
       <div className="mb-8">
-        <img src="/icons/retiroentienda.svg" alt="YouTube" className="h-10" />
+        <img
+          src="/icons/retiroentienda.svg"
+          alt="retiroentienda"
+          className="h-10"
+        />
+      </div>
+      <div className="mb-8">
+        <img src="/icons/instagram.svg" alt="Instagram" className="h-10" />
       </div>
 
       {/* Card del Banner */}
